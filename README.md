@@ -29,8 +29,13 @@ This folder contains 3 models. The first model simulates temperature control in 
 This folder contains a file that is responsible for the communication between the vertical farm and the thingSpeak platform
 
 credits:
+
 Documentation: Mohamed Khaild, Mahmoud Ibrahim
+
 Software: Abdelrahman shafeek, Hassan shehata
+
 Hardware: Mohamed Wael, Yahia El-Agamy
+
 Simulink models: Mohamed Khalid
+
 thingSpeak: Yasmeen Tobar , Haneen Elzayady
